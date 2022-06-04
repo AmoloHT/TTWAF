@@ -2,6 +2,10 @@
 name = "ttwaf"
 version = "1.0.0"
 edition = "2021"
+authors = ["Amolo Hunters <amoloht@protonmail.com>"]
+description = "Test a list of payloads and see if you can bypass it"
+homepage = "https://github.com/AmoloHT/TTWAF"
+repository = "https://github.com/AmoloHT/TTWAF"
 
 [dependencies]
 reqwest = { version = "0.11", features = ["blocking"] }
