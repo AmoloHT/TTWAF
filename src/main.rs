@@ -25,7 +25,7 @@ fn banner() {
                  X0Okxddddoldxk0KN
 
               \x1b[95m[\x1b[97mTest This WAF - v1.0\x1b[95m]
-                  \x1b[95m[\x1b[97mby AmoloHT\x1b[95m]
+                   \x1b[95m[\x1b[97mby AmoloHT\x1b[95m]
 ");
 }
 
