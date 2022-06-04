@@ -1,16 +1,16 @@
 <h1 align="center">「🧱」About TTWAF</h1>
 
-<p align="center"><img src="assets/logo.png"></p>
+<p align="center"><img src="/assets/logo.png"></p>
 
 <p align="center">TTWAF, or Test This WAF, is a Web Application Firewall (WAF) bypass testing tool. You can test a list of payloads like XSS, LFI, RCE, SQLI and find one that can bypass WAF. TTWAF is built in Rust, this is great for faster testing.</ṕ>
 
 ## Usage:
 
-<p align="center"><img src="assets/demo.png"></p>
+<p align="center"><img src="/assets/demo.png"></p>
 
 ## Help:
 
-<p align="center"><img src="assets/help.png"></p>
+<p align="center"><img src="/assets/help.png"></p>
 
 # How to Install:
 
